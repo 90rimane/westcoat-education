@@ -1,0 +1,37 @@
+[
+  {
+    "FirstName": "Ali",
+    "LastName": "Mesbah",
+    "Email": "ali@mail.com",
+    "Phone": "0734675850",
+    "Address": "vasagatan 12, Göteborg"
+  },
+  {
+    "FirstName": "Eva",
+    "LastName": "Hasse",
+    "Email": "eva@mail.com",
+    "Phone": "07712329",
+    "Address": "Dahlströmsgatan 34, Partille"
+  },
+  {
+    "FirstName": "Peter",
+    "LastName": "Andersson",
+    "Email": "peter@mail.com",
+    "Phone": "0764143121",
+    "Address": "Stampgatan 4B, Torslanda"
+  },
+  {
+    "FirstName": "Emma",
+    "LastName": "Gustavsson",
+    "Email": "emma@mail.com",
+    "Phone": "0764592277",
+    "Address": "Så gatan 12, Kungälv"
+  },
+  {
+    "FirstName": "Adam",
+    "LastName": "petersson",
+    "Email": "adam@mail.com",
+    "Phone": "0767575823",
+    "Address": "Godhemsgatan 4A, Göteborg"
+  }
+]

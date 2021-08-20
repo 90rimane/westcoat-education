@@ -1,0 +1,44 @@
+[
+  {
+    "CourseName": "Engelska1",
+    "CourseNumber": 1001,
+    "CoursePeriod" : "20Maj23_20Jul28",
+    "CoursePrice" : "2200",
+    "Retired": true
+  },
+  {
+    "CourseName": "Engelska2",
+    "CourseNumber": 1002,
+    "CoursePeriod" : "20Aug01_20Oct15",
+    "CoursePrice" : "240",
+    "Retired": false
+  },
+  {
+    "CourseName": "Programmering1",
+    "CourseNumber": 1003,
+    "CoursePeriod" : "21Jan06_21Mar14",
+    "CoursePrice" : "1900",
+    "Retired": false
+  },
+  {
+    "CourseName": "Programmering2",
+    "CourseNumber": 1004,
+    "CoursePeriod" : "20Aug01_20Oct15",
+    "CoursePrice" : "210",
+    "Retired": true
+  },
+  {
+    "CourseName": "Matematik1",
+    "CourseNumber": 1005,
+    "CoursePeriod" : "20Aug08_20Dec22",
+    "CoursePrice" : "2000",
+    "Retired": false
+  },
+  {
+    "CourseName": "Matematik2",
+    "CourseNumber": 1006,
+    "CoursePeriod" : "20Jun02_20Jul30",
+    "CoursePrice" : "1800",
+    "Retired": true
+  }
+]
